@@ -1,15 +1,38 @@
-# 💫 About Me:
-👽Hello! My name is cotopes.<br>👨‍🎓BMSTU student<br>💼Beginner in IT.<br>☀️Try to make world better!<br>
+<h1 align="center">Вячеслав Дерёлкин</h1>
 
+<p align="center">
+  Информационная безопасность · Сетевые технологии · МГТУ им. Н. Э. Баумана<br>
+  <strong>Ищу стажировку в SOC (L1) или в команде сетевой безопасности</strong>
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/derelkinvv) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/COTOPESq) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@COTOPES) 
+<p align="center">
+  <a href="#проекты">Проекты</a> · <a href="#опыт">Опыт</a> · <a href="#инструменты">Инструменты</a> · <a href="https://t.me/COTOPESq">Telegram</a>
+</p>
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![TravisCI](https://img.shields.io/badge/travis%20ci-%232B2F33.svg?style=for-the-badge&logo=travis&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
+Учусь на специальности «Информационная безопасность автоматизированных систем». Интересуюсь диагностикой сетевых соединений, мониторингом ИБ и первичным разбором событий безопасности.
 
+## Проекты
 
----
-[![](https://visitcount.itsvg.in/api?id=COTOPESq&icon=0&color=0)](https://visitcount.itsvg.in)
+| Проект | Что сделал |
+| --- | --- |
+| **Сетевые лабораторные** | Настраивал связь между узлами по TCP/IP, подключение по SSH и правила фильтрации трафика в UFW и iptables. Анализировал системные журналы Linux. |
+| [Контроль целостности файлов](https://github.com/COTOPESq/file-integrity-control) | Написал утилиту на Python, которая сравнивает SHA-256 файлов с сохранённой базой и сообщает о новых, изменённых и удалённых файлах. Добавил отчёты в TXT и PDF. |
+| [YaManagerBot](https://github.com/COTOPESq/YaManagerBot) | Разработал Telegram-бота для управления задачами команды на Python с Telegram Bot API и хранением данных в JSON. |
+| **WorkTime Control** | В учебном проекте работал над интеграцией NFC-терминала на ESP32 с сервером и веб-панелью с журналом входов и выходов. |
+| **XTEA** | В курсовом проекте реализовал алгоритм блочного шифрования и оценил быстродействие реализации. |
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Опыт
+
+- **ФАУ «ЦАГИ» · практика.** Участвовал в командной разработке ПО, работал с Python и задачами информационной безопасности.
+- **Яндекс · амбассадор.** Организовывал мероприятия в МГТУ и офисах Яндекса, участвовал в подготовке Y&&Y LAB и YoungCon.
+
+## Инструменты
+
+| Направление | Инструменты и технологии |
+| --- | --- |
+| Сети | TCP/IP, DNS, DHCP, NAT, SSH |
+| Мониторинг и фильтрация трафика | Linux, системные журналы, UFW, iptables |
+| Автоматизация | Python, Bash, Git, Docker, REST API, Telegram Bot API |
+| Базы данных | SQL, PostgreSQL, Microsoft SQL Server |
+
+Участвую в хакатонах и снимаю студенческие мероприятия.
